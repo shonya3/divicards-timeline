@@ -63,5 +63,38 @@
         }
       ]
     }
+  },
+  "2025-06-23": {
+    "Monochrome": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: low"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "Incarnation",
+          "id": "Incarnation of Neglect",
+          "idSlug": "incarnation-of-neglect",
+          "typeSlug": "incarnation",
+          "kind": "source"
+        }
+      ],
+      "verifySourcesAdded": [
+        {
+          "type": "Incarnation",
+          "id": "Incarnation of Dread",
+          "idSlug": "incarnation-of-dread",
+          "typeSlug": "incarnation",
+          "kind": "source"
+        },
+        {
+          "type": "Incarnation",
+          "id": "Incarnation of Fear",
+          "idSlug": "incarnation-of-fear",
+          "typeSlug": "incarnation",
+          "kind": "source"
+        }
+      ]
+    }
   }
 }
