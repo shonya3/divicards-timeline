@@ -96,5 +96,144 @@
         }
       ]
     }
+  },
+  "2025-06-28": {
+    "Lantador's Lost Love": {
+      "status": "modified",
+      "sourcesAdded": [
+        {
+          "type": "Act",
+          "id": "2_6_15",
+          "idSlug": "2-6-15",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ],
+      "verifySourcesRemoved": [
+        {
+          "type": "Act",
+          "id": "2_6_15",
+          "idSlug": "2-6-15",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ]
+    },
+    "The Endless Darkness": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: done"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "Harbinger Portal",
+          "id": "HarbingerPortal",
+          "idSlug": "harbingerportal",
+          "typeSlug": "harbinger-portal",
+          "kind": "source"
+        },
+        {
+          "type": "Harbinger Portal",
+          "id": "HarbingerPortalDelve",
+          "idSlug": "harbingerportaldelve",
+          "typeSlug": "harbinger-portal",
+          "kind": "source"
+        },
+        {
+          "type": "Harbinger Portal",
+          "id": "HarbingerPortalUber",
+          "idSlug": "harbingerportaluber",
+          "typeSlug": "harbinger-portal",
+          "kind": "source"
+        }
+      ]
+    },
+    "The Eye of Terror": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: done"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "Syndicate Member",
+          "id": "It That Fled",
+          "idSlug": "it-that-fled",
+          "typeSlug": "syndicate-member",
+          "kind": "source"
+        }
+      ]
+    },
+    "The Lord in Black": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: done"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "Beyond Boss",
+          "id": "K'tash, the Hate Shepherd",
+          "idSlug": "k-tash-the-hate-shepherd",
+          "typeSlug": "beyond-boss",
+          "kind": "source"
+        }
+      ]
+    },
+    "The Return of the Rat": {
+      "status": "modified",
+      "sourcesAdded": [
+        {
+          "type": "Act",
+          "id": "2_9_9",
+          "idSlug": "2-9-9",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ],
+      "verifySourcesRemoved": [
+        {
+          "type": "Act",
+          "id": "2_9_9",
+          "idSlug": "2-9-9",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ]
+    },
+    "Thunderous Skies": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: done"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "Act",
+          "id": "2_6_1",
+          "idSlug": "2-6-1",
+          "typeSlug": "act",
+          "kind": "source"
+        },
+        {
+          "type": "Act",
+          "id": "2_6_7_2",
+          "idSlug": "2-6-7-2",
+          "typeSlug": "act",
+          "kind": "source"
+        },
+        {
+          "type": "Map",
+          "id": "Plateau Map",
+          "idSlug": "plateau-map",
+          "typeSlug": "map",
+          "kind": "source"
+        },
+        {
+          "type": "Map",
+          "id": "Tower Map",
+          "idSlug": "tower-map",
+          "typeSlug": "map",
+          "kind": "source"
+        }
+      ]
+    }
   }
 }
