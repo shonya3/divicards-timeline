@@ -235,5 +235,43 @@
         }
       ]
     }
+  },
+  "2025-07-01": {
+    "Akil's Prophecy": {
+      "status": "modified",
+      "sourcesAdded": [
+        {
+          "type": "All Incursion Architects in Alva missions or Alva's Memory",
+          "id": "All Incursion Architects in Alva missions or Alva's Memory",
+          "idSlug": "all-incursion-architects-in-alva-missions-or-alva-s-memory",
+          "typeSlug": "all-incursion-architects-in-alva-missions-or-alva-s-memory",
+          "kind": "category"
+        }
+      ],
+      "verifySourcesRemoved": [
+        {
+          "type": "All Incursion Architects in Alva missions or Alva's Memory",
+          "id": "All Incursion Architects in Alva missions or Alva's Memory",
+          "idSlug": "all-incursion-architects-in-alva-missions-or-alva-s-memory",
+          "typeSlug": "all-incursion-architects-in-alva-missions-or-alva-s-memory",
+          "kind": "category"
+        }
+      ]
+    },
+    "History": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: done"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "The Temple of Atzoatl",
+          "id": "The Temple of Atzoatl",
+          "idSlug": "the-temple-of-atzoatl",
+          "typeSlug": "the-temple-of-atzoatl",
+          "kind": "category"
+        }
+      ]
+    }
   }
 }
