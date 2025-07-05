@@ -273,5 +273,28 @@
         }
       ]
     }
+  },
+  "2025-07-05": {
+    "Jack in the Box": {
+      "status": "modified",
+      "sourcesAdded": [
+        {
+          "type": "Act",
+          "id": "1_3_9",
+          "idSlug": "1-3-9",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ],
+      "verifySourcesRemoved": [
+        {
+          "type": "Act",
+          "id": "1_3_9",
+          "idSlug": "1-3-9",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ]
+    }
   }
 }
