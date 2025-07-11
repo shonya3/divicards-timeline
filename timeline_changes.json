@@ -296,5 +296,22 @@
         }
       ]
     }
+  },
+  "2025-07-11": {
+    "Duality": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: ok"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "All Incursion Architects (The Temple of Atzoatl)",
+          "id": "All Incursion Architects (The Temple of Atzoatl)",
+          "idSlug": "all-incursion-architects-the-temple-of-atzoatl",
+          "typeSlug": "all-incursion-architects-the-temple-of-atzoatl",
+          "kind": "category"
+        }
+      ]
+    }
   }
 }
