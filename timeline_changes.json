@@ -313,5 +313,43 @@
         }
       ]
     }
+  },
+  "2025-08-27": {
+    "The Chains that Bind": {
+      "status": "modified",
+      "sourcesAdded": [
+        {
+          "type": "Act",
+          "id": "2_6_7_2",
+          "idSlug": "2-6-7-2",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ],
+      "verifySourcesRemoved": [
+        {
+          "type": "Act",
+          "id": "2_6_7_2",
+          "idSlug": "2-6-7-2",
+          "typeSlug": "act",
+          "kind": "source"
+        }
+      ]
+    },
+    "The Hive of Knowledge": {
+      "status": "modified",
+      "confidenceChanges": [
+        "New: done"
+      ],
+      "sourcesAdded": [
+        {
+          "type": "The Temple of Atzoatl",
+          "id": "The Temple of Atzoatl",
+          "idSlug": "the-temple-of-atzoatl",
+          "typeSlug": "the-temple-of-atzoatl",
+          "kind": "category"
+        }
+      ]
+    }
   }
 }
